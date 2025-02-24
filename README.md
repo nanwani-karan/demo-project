@@ -1,2 +1,2 @@
 # demo-project
-my first git repository
+my first git repository author -karan nanwani
